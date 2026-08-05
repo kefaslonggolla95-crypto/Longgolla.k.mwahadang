@@ -1,2 +1,1 @@
-# Longgolla.k.mwahadang
-CLS.112 assignment
+CSL 112 week 2 assignment
