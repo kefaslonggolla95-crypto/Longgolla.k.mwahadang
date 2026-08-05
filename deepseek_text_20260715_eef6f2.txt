@@ -1,0 +1,21 @@
+╔══════════════════════════════════════════════════════════════╗
+║     DYNAMIC ARRAY PROFILER - Performance & Memory Monitor   ║
+╚══════════════════════════════════════════════════════════════╝
+
+📊 BASIC ARRAY TEST
+──────────────────────────────────────────────────
+
+📌 Test 1: Creating dynamic array with size 50,000
+   ✓ Array created: 50000 elements
+   ✓ Memory used: 200.00 KB
+   ✓ Time taken: 2.34 ms
+
+📌 Test 2: Dynamic ArrayList with 50,000 elements
+   ✓ ArrayList created: 50000 elements
+   ✓ Final capacity: 65536
+   ✓ Memory used: 400.00 KB
+   ✓ Time taken: 3.67 ms
+
+🧪 MEMORY LOOP SIMULATION
+──────────────────────────────────────────────────
+...
